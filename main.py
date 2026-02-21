@@ -1,5 +1,4 @@
-counts=1
-while 1<10:
+while True:
  def my_func1():
   for i in range(0,2):
    print("")
