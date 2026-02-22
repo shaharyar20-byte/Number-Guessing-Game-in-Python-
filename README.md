@@ -1,14 +1,16 @@
-# Hi there, I'm Shaharyar 👋
+# Number Guessing Game
 
-Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to the open-source community.
+Interactive Python game with multiple difficulty levels.
 
-## 🚀 About Me
+## Features
+- Random number generation
+- User input
+- Difficulty levels: Easy, Medium, Hard
 
-I'm a developer dedicated to creating impactful software and collaborating with talented teams. I love exploring new technologies, solving complex problems, and sharing knowledge with the community.
+## How to Play
+1. Run the Python file
+2. Enter your name and age
+3. Choose difficulty level
+4. Guess the number!
 
-- 🔭 Currently working on exciting projects
-- 🌱 Always learning and growing my skills
-- 💬 Open to discussing ideas, collaborations, and tech
-- 📫 Feel free to reach out anytime
-
-## 💻 Shaharyar dev
+**Developer:** Shaharyar Sheraz
