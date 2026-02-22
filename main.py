@@ -36,9 +36,9 @@ while True:
       level_1= "1. 😀Easy:   1 - 20 ➡️"
       level_2= "2. 😐Medium: 21- 50 ➡️"
       level_3= "3. 😵Hard:   51-100 ➡️"
- print(levels.level_1)
- print(levels.level_2)
- print(levels.level_3)
+  print(levels.level_1)
+  print(levels.level_2)
+  print(levels.level_3)
  level()
  print("")
  level_num= eval(input("Type the number of the level you like: "))
