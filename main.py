@@ -25,27 +25,25 @@ while True:
  my_func2()
  my_func1()
  num= (input("Enter Your Name:  "))
- age= eval(input("Enter Your age:    "))
- if age>0:
-    print("")
-    print("Now play your game!")
-    my_func1()
-    print("There are 3 levels.")
-    print("Chose one of them")
-    print("")
-    def level():
-     class levels:
+ print("")
+ print("Now play your game!")
+ my_func1()
+ print("There are 3 levels.")
+ print("Chose one of them")
+ print("")
+ def level():
+   class levels:
       level_1= "1. 😀Easy:   1 - 20 ➡️"
       level_2= "2. 😐Medium: 21- 50 ➡️"
       level_3= "3. 😵Hard:   51-100 ➡️"
-     print(levels.level_1)
-     print(levels.level_2)
-     print(levels.level_3)
-    level()
-    print("")
-    level_num= eval(input("Type the number of the level you like: "))
-    print("")
-    if level_num==1:
+ print(levels.level_1)
+ print(levels.level_2)
+ print(levels.level_3)
+ level()
+ print("")
+ level_num= eval(input("Type the number of the level you like: "))
+ print("")
+ if level_num==1:
       print("")
       guess= (eval(input("Enter Your guess between 1-20:    ")))
       print("")
@@ -56,7 +54,7 @@ while True:
         cong()
       else:
         loss()
-    elif level_num==2:
+ elif level_num==2:
       guess= eval(input("Enter Your guess between 21-50:     "))
       print("")
       import random
@@ -66,7 +64,7 @@ while True:
         cong()
       else:
         loss()
-    elif level_num==3:
+ elif level_num==3:
       guess= (eval(input("Enter Your guess between 51-100:    ")))
       print("")
       import random 
@@ -76,11 +74,8 @@ while True:
         cong()
       else:
         loss()
-    else:
-      print("Put level number")
  else:
-    print("You have put wrong age.")
-    print("execute program again and enter right age")
+      print("Put level number")
  for i in range(0,4):
     print("============================================")
     
