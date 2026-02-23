@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-![Python Poster](.image/py_guess.png)
+![Python Poster](./Image/py_guess.png)
 
 Interactive Python game with multiple difficulty levels.
 
