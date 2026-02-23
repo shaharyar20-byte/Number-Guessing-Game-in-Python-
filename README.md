@@ -11,7 +11,7 @@ Interactive Python game with multiple difficulty levels.
 
 ## How to Play
 1. Run the Python file
-2. Enter your name and age
+2. Enter your name
 3. Choose difficulty level
 4. Guess the number!
 
