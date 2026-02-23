@@ -1,3 +1,4 @@
+import random
 while True:
  def my_func1():
   for i in range(0,2):
@@ -36,9 +37,9 @@ while True:
       level_1= "1. 😀Easy:   1 - 20 ➡️"
       level_2= "2. 😐Medium: 21- 50 ➡️"
       level_3= "3. 😵Hard:   51-100 ➡️"
-  print(levels.level_1)
-  print(levels.level_2)
-  print(levels.level_3)
+   print(levels.level_1)
+   print(levels.level_2)
+   print(levels.level_3)
  level()
  print("")
  level_num= eval(input("Type the number of the level you like: "))
@@ -47,7 +48,6 @@ while True:
       print("")
       guess= (eval(input("Enter Your guess between 1-20:    ")))
       print("")
-      import random
       guess_number= random.randint(1,20)
       if guess==guess_number:
         print("Your guess",guess_number," is right")
@@ -57,7 +57,6 @@ while True:
  elif level_num==2:
       guess= eval(input("Enter Your guess between 21-50:     "))
       print("")
-      import random
       guess_number= random.randint(21,50)
       if guess==guess_number:
         print("Your guess",guess_number," is right")
@@ -67,7 +66,6 @@ while True:
  elif level_num==3:
       guess= (eval(input("Enter Your guess between 51-100:    ")))
       print("")
-      import random 
       guess_number= random.randint(51,100)
       if guess==guess_number:
         print("Your guess",guess_number," is right")
