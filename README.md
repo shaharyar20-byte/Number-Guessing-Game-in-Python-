@@ -24,4 +24,6 @@ Interactive Python game with multiple difficulty levels.
 3. Choose difficulty level
 4. Guess the number!
 
+![Python](./Image/python.png)
+
 **Developer:** Shaharyar Sheraz
