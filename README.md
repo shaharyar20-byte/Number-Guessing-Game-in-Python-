@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue)
 ![Build](https://img.shields.io/github/workflow/status/username/repo-name/Python%20package)
+![Issues](https://img.shields.io/github/issues/shaharyar20-byte/Number-Guessing-Game)
 
 ![Python Poster](./Image/py_guess.png)
 
