@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Python Version](https://img.shields.io/badge/Python-3.x-blue)
+
 ![Python Poster](./Image/py_guess.png)
 
 Interactive Python game with multiple difficulty levels.
