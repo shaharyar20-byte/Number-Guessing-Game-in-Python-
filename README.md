@@ -6,6 +6,7 @@
 ![Issues](https://img.shields.io/github/issues/shaharyar20-byte/Number-Guessing-Game)
 ![Stars](https://img.shields.io/github/stars/shaharyar20-byte/Number-Guessing-Game)
 ![Forks](https://img.shields.io/github/forks/shaharyar20-byte/Number-Guessing-Game)
+![Last Commit](https://img.shields.io/github/last-commit/shaharyar20-byte/Number-Guessing-Game)
 
 ![Python Poster](./Image/py_guess.png)
 
