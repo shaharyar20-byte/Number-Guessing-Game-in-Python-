@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue)
+![Build](https://img.shields.io/github/workflow/status/username/repo-name/Python%20package)
 
 ![Python Poster](./Image/py_guess.png)
 
@@ -25,7 +26,5 @@ Interactive Python game with multiple difficulty levels.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **Developer:** Shaharyar Sheraz
