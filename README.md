@@ -1,5 +1,7 @@
 # Number Guessing Game
 
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ![Python Poster](./Image/py_guess.png)
 
 Interactive Python game with multiple difficulty levels.
