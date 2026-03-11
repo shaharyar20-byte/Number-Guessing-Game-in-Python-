@@ -15,6 +15,9 @@ Interactive Python game with multiple difficulty levels.
 3. Choose difficulty level
 4. Guess the number!
 
+## ⚙️ Requirements
+- Python 3.x
+
 ![Python](./Image/Python.png)
 
 ## 📄 License
