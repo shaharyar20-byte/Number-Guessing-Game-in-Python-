@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue)
-![Build](https://img.shields.io/github/workflow/status/username/repo-name/Python%20package)
+![Build](https://img.shields.io/github/actions/workflow/status/shaharyar20-byte/Number-Guessing-Game/python-app.yml?branch=main)
 ![Issues](https://img.shields.io/github/issues/shaharyar20-byte/Number-Guessing-Game)
 ![Stars](https://img.shields.io/github/stars/shaharyar20-byte/Number-Guessing-Game)
 ![Forks](https://img.shields.io/github/forks/shaharyar20-byte/Number-Guessing-Game)
