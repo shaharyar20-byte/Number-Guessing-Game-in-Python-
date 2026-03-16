@@ -1,0 +1,4 @@
+# Number Guessing Game dependencies
+# No external packages required
+
+python>=3.10
