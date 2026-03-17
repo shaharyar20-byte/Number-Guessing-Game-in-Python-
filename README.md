@@ -11,9 +11,9 @@
 
 
 ## Features
-- Basic number guessing game
 - Random number generation
-- User input and feedback for guesses
+- User input handling
+- Win/Lose system
 
 ## How to Play
 1. Run the Python file
