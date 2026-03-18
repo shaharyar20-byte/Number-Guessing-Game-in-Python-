@@ -9,6 +9,8 @@
 
 ![Python Poster](./Image/py_guess.png)
 
+## Description
+A simple Python game where user guesses a number between 1–20.
 
 ## Features
 - Random number generation
