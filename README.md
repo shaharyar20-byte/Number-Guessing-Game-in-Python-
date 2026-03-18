@@ -17,10 +17,11 @@ A simple Python game where user guesses a number between 1–20.
 - User input handling
 - Win/Lose system
 
-## How to Play
-1. Run the Python file
-2. Enter your name
-3. Guess the number!
+## How to Run
+1. Download ZIP
+2. Extract
+3. Run:
+   python src/Game_Code.py
 
 ## Future Improvements
 - Add GUI
