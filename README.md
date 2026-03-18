@@ -21,7 +21,7 @@ A simple Python game where user guesses a number between 1–20.
 1. Download ZIP
 2. Extract
 3. Run:
-   python src/Game_Code.py
+   src/Game_Code.py
 
 ## Future Improvements
 - Add GUI
