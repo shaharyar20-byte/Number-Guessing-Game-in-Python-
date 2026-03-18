@@ -20,6 +20,11 @@
 2. Enter your name
 3. Guess the number!
 
+## Future Improvements
+- Add GUI
+- Add more features
+- Improve performance
+
 ## ⚙️ Requirements
 - Python 3.x
 
