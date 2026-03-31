@@ -1,5 +1,6 @@
 import random
 
+random.randint(1,20)
 print('  Welcome to Number Guessing Game')
 print("Hello! Now play your game!")
 
